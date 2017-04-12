@@ -3,7 +3,7 @@ State Abbreviator
 Let's continue experimenting with state, props, inputs, and transforming arrays by creating:
 
  1. A select input/dropdown menu that contains a list of US states
- 2. A component that displays the abbreviation of the selected US state.
+ 2. A component that displays the abbreviation of the selected US state once you select a state from the dropdown.
 
 Objectives
 -------------
